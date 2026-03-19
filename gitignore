@@ -1,0 +1,26 @@
+# History file (stored locally per user)
+.sitemon_history.json
+
+# Generated reports
+*.xlsx
+*.csv
+
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
